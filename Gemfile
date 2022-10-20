@@ -6,7 +6,7 @@ gem 'activesupport'
 gem "erector", "~> 0.10.0"
 gem "sinatra", "~> 1.4.0"
 gem "sinatra-contrib", "~> 1.4.0"
-gem "nokogiri"
+gem "nokogiri", ">= 1.13.9"
 gem "thin"
 gem "eventmachine", "~>1.0.3"
 gem 'rack-codehighlighter'
